@@ -1,0 +1,24 @@
+Assignment 1
+
+Part1) 
+a) Client Random number: 8b 43 d5 10 c9 65 58 81 15 35 16 5c 73 c7 e6 
+			 c3 df 45 25 e0 f1 a0 14 d3 ba a6 1f d7 cc 6f 62 
+			 ea
+
+b) Cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+
+c) Server public key: 
+		      04 a4 f7 da ef ba ab 48 4d 05 05 b3 ae e4 9e ca 
+		      32 4e 77 46 0d 73 e3 cc 52 4e e1 ef cc 4a 4b f6
+		      60 f9 a1 a1 23 75 2b cc a8 00 42 47 3a f5 1c 8a 
+		      9a 12 67 cc 4a 01 12 d0 64 c9 e5 16 f3 a1 ff 12
+		      0c
+
+d) Client public key:
+			04 37 f7 de 44 1f 44 6c 08 f1 2e 15 32 fa 52 d3
+			50 ce dd f7 7f 42 5d a3 42 78 7c 02 4e c0 f4 c9
+			47 e4 5e 65 27 c2 99 f1 59 d5 40 65 e2 43 25 d6
+			5e 1a 00 4b 05 26 59 de c3 68 2f fe 1f 18 86 b7
+			0b
+
+
